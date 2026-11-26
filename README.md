@@ -30,3 +30,13 @@ J'apprends à utiliser les commandes Git :
 
 \- git log
 
+
+
+\## Mise à jour du projet
+
+
+
+Ce projet est hébergé sur GitHub.
+
+Les modifications sont envoyées avec la commande git push.
+
