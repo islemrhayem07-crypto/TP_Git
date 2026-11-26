@@ -16,3 +16,17 @@ Objectifs :
 
 \- Apprendre à travailler avec les branches.
 
+\## Deuxième étape
+
+
+
+J'apprends à utiliser les commandes Git :
+
+\- git add
+
+\- git commit
+
+\- git status
+
+\- git log
+
